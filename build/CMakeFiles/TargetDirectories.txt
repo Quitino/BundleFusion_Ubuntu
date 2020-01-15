@@ -1,0 +1,4 @@
+/home/fb/SLAM/BundleFusion_Ubuntu/build/CMakeFiles/rebuild_cache.dir
+/home/fb/SLAM/BundleFusion_Ubuntu/build/CMakeFiles/edit_cache.dir
+/home/fb/SLAM/BundleFusion_Ubuntu/build/CMakeFiles/BundleFusion_Ubuntu.dir
+/home/fb/SLAM/BundleFusion_Ubuntu/build/CMakeFiles/FriedLiver.dir

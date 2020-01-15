@@ -3,7 +3,7 @@
 - cuda10.1
 
 能够成功能编译,但是运行不了，显存不够。如果要运行需要更改CMakeLists.txt文件.
-[!Alt](./doc/test.png)
+![Alt](./doc/test.png)
 
 
 This is the bundlefusion of linux version, exactly the ubuntu version. I have tested in Ubuntu16.04 + CUDA9.0 and Ubuntu 18.04 + CUDA10. I think other version is OK, maybe you should change some compile configuration!

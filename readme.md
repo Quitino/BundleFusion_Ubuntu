@@ -4,7 +4,7 @@ fork form [here](https://github.com/nonlinear1/BundleFusion_Ubuntu_V0)
 - Ubuntu16.04
 - cuda10.1
 
-能够成功能编译,但是运行不了，显存不够。如果要运行需要更改CMakeLists.txt文件.  
+能够成功编译,但是运行不了，显存不够。如果要运行需要更改CMakeLists.txt文件.  
 ![Alt](./doc/test.png)
 
 

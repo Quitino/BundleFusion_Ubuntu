@@ -33,13 +33,15 @@ The data,lib,mLibExternal,scans you must make them yourself!
  "mLibExternal" folder you must add the files from the bundlefusion in https://github.com/niessner/BundleFusion.  
 "scans" folder is the mesh output! the results you are looking forward to!  
 ##  1.make and compile  
-`bash
+```bash
 cd build  
 cmake ..  
 make -j8  
-`
-now you just put the "zParametersBundlingDefault.txt" and "zParametersDefault.txt"  into build folder and just   
+```
+now you just put the "zParametersBundlingDefault.txt" and "zParametersDefault.txt"  into build folder and just  
+ 
 `./FriedLiver`  
+
 the Bundlefuson_Ubuntu is running and press "9" key you can save the mesh!  
 
 For now, no display, when I have time, I will add display, I will use imGUI and OpenGL to display and render!
